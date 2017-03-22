@@ -1,4 +1,4 @@
-# E-Dessert-Shop
+# E-Desserts-Shop
 A simple client-server program using TCP/IP sockets.
 
 # How to run it?
